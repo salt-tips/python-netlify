@@ -1,0 +1,19 @@
+# emacs
+*~
+.\#*
+\.\#.+
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+MANIFEST
+
+# diff/merge
+*.orig
+*.rej
+
+# mac
+.DS_Store
